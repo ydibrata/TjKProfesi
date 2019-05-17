@@ -1,11 +1,11 @@
 {
   "name": "selintasinfoh.com",
   "short_name": "JAPPROFESI",
-  "start_url": "https://www.selintasinfoh.com/?m=1",
+  "start_url": "https://www.selintasinfoh.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
-  "description": "Blog yang membahas seputar informasi pendididikan dan media pembelajaran",
+  "description": "Blog yang membahas seputar informasi pendididikan dan media pembelajaran.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-5vS8cHC6ZZw/W9LppmekroI/AAAAAAAAFv8/pb6IIeekWK8toe7F7fcMRNYoMEdqJ5L3QCLcBGAs/s48/TjK-PROFESI.png",
     "sizes": "48x48",
